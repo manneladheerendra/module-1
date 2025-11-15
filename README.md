@@ -6,5 +6,15 @@
 <img width="2874" height="850" alt="image" src="https://github.com/user-attachments/assets/8d4e77ef-73c5-4524-b4dc-259250ffc1cb" />
 4.Type casting
 <img width="2870" height="842" alt="image" src="https://github.com/user-attachments/assets/7a4fde36-36e2-4f03-8a44-70396482212e" />
-5.Even or Odd
+5.Swap numbers
+<img width="2482" height="798" alt="image" src="https://github.com/user-attachments/assets/436c0974-cf9b-4a9f-ab65-c0be0aea5424" />
+6.Even or Odd
 <img width="2830" height="1352" alt="image" src="https://github.com/user-attachments/assets/9d33c4d6-84ab-4293-b1dc-7d2182910a7c" />
+7.Largest three numbers
+<img width="2868" height="740" alt="image" src="https://github.com/user-attachments/assets/20ca3d02-2d4e-4c08-bab4-81d44075813c" />
+8.Multiplication table
+<img width="2656" height="714" alt="image" src="https://github.com/user-attachments/assets/a30ced97-a503-4cf6-b6ff-de979eb20ddf" />
+9.Sum and average of two numbers
+<img width="2722" height="916" alt="image" src="https://github.com/user-attachments/assets/238e4b74-de25-4f00-86c9-b192f740448d" />
+10.Studentclass and display students
+<img width="2804" height="924" alt="image" src="https://github.com/user-attachments/assets/afc6228b-e991-49c1-8611-0b47c8ae4cb7" />
